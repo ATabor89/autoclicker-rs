@@ -1,0 +1,4 @@
+time_between_clicks_millis = 50
+should_left_click = false
+should_middle_click = false
+should_right_click = false
